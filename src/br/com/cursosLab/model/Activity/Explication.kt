@@ -1,5 +1,6 @@
-package br.com.cursosLab.model
+package br.com.cursosLab.model.Activity
 
+import br.com.cursosLab.model.Section
 import java.lang.Exception
 
 class Explication(
